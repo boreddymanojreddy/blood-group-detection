@@ -1,3 +1,5 @@
+#Blood group detection using Image processing and Deep learning
+
 The study addresses the challenges of manually counting red blood cells (RBCs) and determining blood types, which are time-consuming and prone to error. 
 It proposes an automated image processing system to enhance accuracy and efficiency in blood type analysis.
 The system utilizes optical properties of blood antigens and the Rhesus factor to classify blood types unobtrusively.
