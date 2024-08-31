@@ -23,3 +23,5 @@ natural materials known as antibodies and depending on the nearness or non atten
 ofreceived antigenic protein materials at the surfaces ofthe erythrocytes with inside the 
 body. Along those strains via way of means of making use of the optical houses of the 
 antigens and the rhesus calculate gift the blood, the blood gatherings may be ordered
+
+Note:This Repository Contains Blood group detection using Image processing and Deep learning zip file,it contains all the codes for this project.
